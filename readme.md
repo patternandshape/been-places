@@ -1,31 +1,26 @@
 # Places You've Been
 
-#### A website where the user can enter places they have been.  
-#### January 25, 2016
+January 25, 2016
 
-#### By Molly Curtin & Sean Peerenboom
+##### By Molly Curtin &amp; Sean Peerenboom
 
-## Description
+### Description
 
 A web application that takes in information regarding the places a user has been and displays the properties of each place when clicked.
 
-## Technologies Used
+##### Technologies Used
 
 * HTML
 * CSS
 * JavaScript
-* JQuery
-* Atom
-* Terminal
-* Chai
+* jQuery
 * Mocha
-* Bootstrap
+* Chai
 * BDD
+* Git
 
-###Address Book can be viewed at https://github.com/patternandshape/been-places
+##### License
 
-### License
+*This software is licensed under the MIT license.*
 
-*Licensed under GPL.*
-
-&copy;2016 **Molly Curtin and Sean Peerenboom**
+&copy;2016 **Molly Curtin &amp; Sean Peerenboom**
